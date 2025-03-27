@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Taib-massages/static/css/main.1e92727e.css",
+    "main.js": "/Taib-massages/static/js/main.3a865b92.js",
+    "static/js/453.fe0e80a8.chunk.js": "/Taib-massages/static/js/453.fe0e80a8.chunk.js",
+    "index.html": "/Taib-massages/index.html",
+    "main.1e92727e.css.map": "/Taib-massages/static/css/main.1e92727e.css.map",
+    "main.3a865b92.js.map": "/Taib-massages/static/js/main.3a865b92.js.map",
+    "453.fe0e80a8.chunk.js.map": "/Taib-massages/static/js/453.fe0e80a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e92727e.css",
+    "static/js/main.3a865b92.js"
+  ]
+}
